@@ -27,3 +27,7 @@ body{
     margin-left: 10px;
     margin-right: 10px;
 }
+.pronounce {
+    cursor: pointer; /* Thay đổi con trỏ khi hover */
+    margin-right: 5px; /* Khoảng cách giữa biểu tượng và từ */
+}
